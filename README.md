@@ -1,3 +1,5 @@
+
+### 这个项目除了是Google利用不同的流行的开源库组合来搭建MVP框架的实践，同时还有完整的测试用例，所以学习价值很高
 # Android Architecture Blueprints [beta]
 
 <img src="https://github.com/googlesamples/android-architecture/wiki/images/aab-logo.png" alt="Android Architecture Blueprints"/>
